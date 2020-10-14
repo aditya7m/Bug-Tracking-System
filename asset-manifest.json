@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7BBug-Tracking-System%7D/static/css/main.6bb02050.chunk.css",
+    "main.js": "/%7BBug-Tracking-System%7D/static/js/main.b8a76227.chunk.js",
+    "main.js.map": "/%7BBug-Tracking-System%7D/static/js/main.b8a76227.chunk.js.map",
+    "runtime-main.js": "/%7BBug-Tracking-System%7D/static/js/runtime-main.fde376d8.js",
+    "runtime-main.js.map": "/%7BBug-Tracking-System%7D/static/js/runtime-main.fde376d8.js.map",
+    "static/css/2.e10332d9.chunk.css": "/%7BBug-Tracking-System%7D/static/css/2.e10332d9.chunk.css",
+    "static/js/2.467347f6.chunk.js": "/%7BBug-Tracking-System%7D/static/js/2.467347f6.chunk.js",
+    "static/js/2.467347f6.chunk.js.map": "/%7BBug-Tracking-System%7D/static/js/2.467347f6.chunk.js.map",
+    "index.html": "/%7BBug-Tracking-System%7D/index.html",
+    "precache-manifest.633f80fb8f27da6fbdb1686ce2a87e52.js": "/%7BBug-Tracking-System%7D/precache-manifest.633f80fb8f27da6fbdb1686ce2a87e52.js",
+    "service-worker.js": "/%7BBug-Tracking-System%7D/service-worker.js",
+    "static/css/2.e10332d9.chunk.css.map": "/%7BBug-Tracking-System%7D/static/css/2.e10332d9.chunk.css.map",
+    "static/css/main.6bb02050.chunk.css.map": "/%7BBug-Tracking-System%7D/static/css/main.6bb02050.chunk.css.map",
+    "static/js/2.467347f6.chunk.js.LICENSE.txt": "/%7BBug-Tracking-System%7D/static/js/2.467347f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fde376d8.js",
+    "static/css/2.e10332d9.chunk.css",
+    "static/js/2.467347f6.chunk.js",
+    "static/css/main.6bb02050.chunk.css",
+    "static/js/main.b8a76227.chunk.js"
+  ]
+}
